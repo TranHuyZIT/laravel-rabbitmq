@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: .github/dependabot.yaml
+  checksum: 53386dce9a242db350f358e3689a992a8b5b49a6505e879d78c51db32df7a921
 - filename: email-service/.env.example
   checksum: b7fa35c0c9df53eedf39c1cfab403a79bd813bbcd5168f621e2357c2903e8eb1
 - filename: email-service/app/Http/Kernel.php
